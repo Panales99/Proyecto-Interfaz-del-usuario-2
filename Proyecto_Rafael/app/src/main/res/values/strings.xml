@@ -1,0 +1,10 @@
+    <resources>
+        <string name="app_name">Proyecto_Rafael</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="hero_list">Telefonos Moviles</string>
+        <string name="Power">RAM</string>
+        <string name="intelligence">Almacenamiento</string>
+        <string name="hero_image">Imagen del telefono</string>
+        <string name="convocate_hero">Este movil es: %s.</string>
+        <string name="cant_clone">"No puedes clonar a un clon."</string>
+    </resources>

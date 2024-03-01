@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fragmento ItemListFragment -->
+    <item
+        android:id="@+id/itemFragment1"
+        android:icon="@drawable/ic_fragment"
+        android:title="Lista"
+        />
+
+    <!-- Fragmento FavItemListFragment -->
+    <item
+        android:id="@+id/itemFragment2"
+        android:icon="@drawable/ic_fragment"
+        android:title="Favoritos"
+        />
+
+    <!-- Fragmento UserInfoFragment -->
+    <item
+        android:id="@+id/itemFragment3"
+        android:icon="@drawable/ic_fragment"
+        android:title="Cuenta"
+        />
+
+</menu>
